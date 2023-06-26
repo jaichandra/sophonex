@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
+      "name": "Services",
+      "url": "/services"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Blog",
+      "url": "/blogs"
     },
     {
       "name": "Contact",
@@ -26,8 +26,8 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "About Us",
+          "url": "/about"
         },
         {
           "text": "Quick Start",

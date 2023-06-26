@@ -81,7 +81,7 @@ const Home = ({ frontmatter }) => {
         return (
           <section
             key={`service-${index}`}
-            className={`section ${isOdd && "bg-theme-light"}`}
+            className={`section ${!isOdd && "bg-theme-light"}`}
           >
             <div className="container">
               <div className="items-center gap-8 md:grid md:grid-cols-2">
