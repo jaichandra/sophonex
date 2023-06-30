@@ -32,14 +32,14 @@ const Footer = () => {
           })}
           {/* social icons */}
           <div className="md-12 sm:col-6 lg:col-3">
-            <Link href="/" aria-label="CloudBytes">
+            {/* <Link href="/" aria-label="Sophonex">
               <Image
                 src={config.site.logo}
                 width={config.site.logo_width}
                 height={config.site.logo_height}
                 alt=""
               />
-            </Link>
+            </Link> */}
             {markdownify(footer_content, "p", "mt-3 mb-6")}
             <Social source={social} className="social-icons mb-8" />
           </div>

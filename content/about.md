@@ -2,11 +2,11 @@
 title: "Welcome"
 ---
 
-Welcome to CloudBytes Consulting, where innovation meets expertise in web and mobile development. We are thrilled to have you here!
+Welcome to Sophonex Consulting, where innovation meets expertise in web and mobile development. We are thrilled to have you here!
 
-At CloudBytes Consulting, we understand the power of technology and its ability to transform businesses. We specialize in creating exceptional digital solutions that not only meet your unique needs but also exceed your expectations. Whether you are looking to build a cutting-edge website, develop a feature-rich mobile application, or seek strategic technology consulting, we've got you covered.
+At Sophonex Consulting, we understand the power of technology and its ability to transform businesses. We specialize in creating exceptional digital solutions that not only meet your unique needs but also exceed your expectations. Whether you are looking to build a cutting-edge website, develop a feature-rich mobile application, or seek strategic technology consulting, we've got you covered.
 
-Thank you for considering CloudBytes Consulting as your preferred tech consulting partner. We look forward to the opportunity to collaborate with you and help bring your digital vision to life. Feel free to explore our website, learn more about our services, and reach out to us for a free consultation. Let's embark on an exciting journey of innovation and growth together.
+Thank you for considering Sophonex Consulting as your preferred tech consulting partner. We look forward to the opportunity to collaborate with you and help bring your digital vision to life. Feel free to explore our website, learn more about our services, and reach out to us for a free consultation. Let's embark on an exciting journey of innovation and growth together.
 
 #### Mission and Values: 
 Our mission is to empower businesses with exceptional web and mobile solutions, driving their growth and success in the digital landscape.
