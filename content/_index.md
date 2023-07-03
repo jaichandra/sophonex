@@ -43,25 +43,25 @@ services:
       label: Check it out
       link: /contact
 
-  # - title: "It is a privately owned Information and cyber security company"
-  #   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-  #   images: 
-  #     - "/images/service-slide-1.png"
-  #   button:
-  #     enable: true
-  #     label: Check it out
-  #     link: /contact
+  - title: "Digikab – Android based Digital Meter"
+    content: "An end-to-end solution for fleets to equip them with an Android based Digital GPS Meter and a web-based solution to help manage their fleet with reduced  operational costs."
+    images: 
+      - "/images/mobile_desktop.png"
+    button:
+      enable: false
+      label: Check it out
+      link: /contact
   
-  # - title: "It’s a team of experienced and skilled people with distributions"
-  #   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-  #   images:
-  #     - "/images/service-slide-1.png"
-  #     - "/images/service-slide-2.png"
-  #     - "/images/service-slide-3.png"
-  #   button:
-  #     enable: true
-  #     label: Check it out
-  #     link: /contact
+  - title: "Mylert"
+    content: "Mylert is a safety-app designed for women & men alike. Designed to provide safety to the app user in all degrees of emergencies. Most important feature of Mylert is that it has an emergency-prevention feature “Watch me” where the app user’s near & dear can watch the location and movements of the user."
+    images:
+      - "/images/banner.jpg"
+      # - "/images/service-slide-2.png"
+      # - "/images/service-slide-3.png"
+    button:
+      enable: false
+      label: Check it out
+      link: /contact
 
   # - title: "A company standing different from others"
   #   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
